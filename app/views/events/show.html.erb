@@ -14,6 +14,19 @@
   <strong>Place:</strong>
   <%= @event.place %>
 </p>
+<!--  test-->
+<tbody>
+  <% @events.each do |event| %>
+    <tr>
+      <td><%= event.description %></td>
+      <td><%= event.date %></td>
+      <td><%= event.place %></td>
+
+
+    </tr>
+  <% end %>
+</tbody>
+
 
 <%= link_to 'Edit', edit_event_path(@event) %> |
 <%= link_to 'Back', events_path %>
