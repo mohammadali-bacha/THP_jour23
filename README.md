@@ -1,6 +1,8 @@
 # Hello les guys, tout est là
 
-## https://obscure-river-78351.herokuapp.com/
+## https://obscure-river-78351.herokuapp.com/users et
+
+## https://obscure-river-78351.herokuapp.com/events
 
 ## event prend en compte mais il faut se rendre sur l'url
 
