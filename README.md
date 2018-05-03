@@ -1,10 +1,5 @@
 # Hello les guys, tout est là 
 
-## Introduction
-
-1. Le git contient toute l'appli pour créer updater et supprimer les movies.
-2. L'app fonctionne au top en local après un bon db:migrate et db:seed des familles.
-
 ## Petit Bilan :
 
 - [x] Models, signup, sign-in
