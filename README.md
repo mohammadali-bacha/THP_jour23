@@ -2,15 +2,14 @@
 
 ## Introduction
 
-1. Le gitlab contient toute l'appli pour créer updater et supprimer les movies.
+1. Le git contient toute l'appli pour créer updater et supprimer les movies.
 2. L'app fonctionne au top en local après un bon db:migrate et db:seed des familles.
-3. Nous n'avons pas réussi à push sur heroku message d'erreur ci dessous;
-4. Si avez LA solution merci de me dire :( On a essayé de changer 36 fois le gemfile avec le sqlite3 etc.. etc.. mais rien à faire :\
 
 ## Petit Bilan :
 
-- [x] The movie database
-- [ ] The gossip poject
+- [x] Models, signup, sign-in
+- [X] Création d'événements
+- [ ] Event-attendance
 
 Nous n'avons pas tout reussi a faire, mon programme ne marche pas sur heroku mais en local, désolé :cry:
 
