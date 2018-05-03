@@ -23,7 +23,6 @@ Nous n'avons pas tout reussi a faire, mon programme ne marche pas sur heroku mai
 
 * Atom
 * et la super team #elonmuskrew
-* et gitlab au lieu de github exceptionellement
 
 ## Contributors with peer-learning : :love_letter:
 
