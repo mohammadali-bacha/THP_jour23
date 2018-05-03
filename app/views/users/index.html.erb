@@ -12,6 +12,7 @@
     </tr>
   </thead>
 
+
   <tbody>
     <% @users.each do |user| %>
       <tr>
@@ -23,7 +24,18 @@
     <% end %>
   </tbody>
 </table>
+<%= link_to 'Create New User', new_user_path %>
+<br>
 
 <br>
 
-<%= link_to 'New User', new_user_path %>
+
+
+<%= form_tag action: "create" do  %>
+<%= label_tag :name, 'Crée ton pseudo' %><br>
+<%= text_field_tag :name %><br><br>
+
+<%= submit_tag 'Sign up'%>
+
+
+<% end %>

@@ -1,4 +1,8 @@
-# Hello les guys, tout est là 
+# Hello les guys, tout est là
+
+## https://obscure-river-78351.herokuapp.com/
+
+## event prend en compte mais il faut se rendre sur l'url
 
 ## Petit Bilan :
 
@@ -6,7 +10,6 @@
 - [X] Création d'événements
 - [ ] Event-attendance
 
-Nous n'avons pas tout reussi a faire, mon programme ne marche pas sur heroku mais en local, désolé :cry:
 
 :pray: Indulgence required, we did our best :smile:
 
@@ -32,5 +35,3 @@ Nous n'avons pas tout reussi a faire, mon programme ne marche pas sur heroku mai
 * Odyssée Levine : @Odyssée Levine
 * David Coat : @Coat David
 * Hugo : @Hugo
-
-
